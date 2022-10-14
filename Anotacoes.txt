@@ -1,4 +1,5 @@
 https://getbootstrap.com/docs/4.6/getting-started/introduction/
 
+<a href="<?= base_url('home') ?>" class="btn btn-primary btn-sm" style="width: 100px; position: fixed">Voltar <i class="fas fa-arrow-circle-left"></i> </a>
 
 Sistema de Exames(Quiz) Online em Codeigniter 3 e Bootstrap 4
